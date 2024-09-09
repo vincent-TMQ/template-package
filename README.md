@@ -26,7 +26,7 @@ npm install
 npm test
 ```
 
-### 4. Building Your Module
+### 4. Bundling Your Module
 
 If all tests pass and the module works as expected, you can proceed to build the package:
 
